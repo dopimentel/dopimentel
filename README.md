@@ -8,9 +8,24 @@
  
 <details open>
 <summary><h3> Backend</h3></summary>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybe-futebol-clube&theme=dark#gh-dark-mode-only)](https://github.com/dopimentel/backend-trybe-futebol-clube#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybe-futebol-clube&theme=light#gh-light-mode-only)](https://github.com/dopimentel/backend-trybe-futebol-clube#gh-light-mode-only)
+ 
+
+<a href="https://github.com/dopimentel/backend-trybe-futebol-clube#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybe-futebol-clube&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/backend-trybe-futebol-clube#gh-light-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybe-futebol-clube&theme=light#gh-light-mode-only" />
+</a>
+
+
+
+<a href="https://github.com/dopimentel/backend-trybers-and-dragons#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybers-and-dragons&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/backend-trybers-and-dragons#gh-light-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybers-and-dragons&theme=light#gh-light-mode-only" />
+</a>
+
 
 </details>
 
