@@ -9,8 +9,8 @@
 <details open>
 <summary><h3> Backend</h3></summary>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=back-end-trybe-futebol-clube&theme=dark#gh-dark-mode-only)](https://github.com/dopimentel/back-end-trybe-futebol-clube#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=back-end-trybe-futebol-clube&theme=light#gh-light-mode-only)](https://github.com/dopimentel/back-end-trybe-futebol-clube#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybe-futebol-clube&theme=dark#gh-dark-mode-only)](https://github.com/dopimentel/backend-trybe-futebol-clube#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybe-futebol-clube&theme=light#gh-light-mode-only)](https://github.com/dopimentel/backend-trybe-futebol-clube#gh-light-mode-only)
 
 </details>
 
