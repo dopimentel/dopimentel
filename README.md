@@ -1,17 +1,35 @@
-### Hi there 👋
+## About me
+
+Hello, welcome!
+
+I'm Marcos, a financier in career transition in Information Technology. I have approximately 5 years of experience in the payments market (acquiring and banking) in Customer Experience. I like playing chess and running.
+
+## Projects
+ 
+<details open>
+<summary><h3> Backend</h3></summary>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=back-end-trybe-futebol-clube&theme=dark#gh-dark-mode-only)](https://github.com/dopimentel/back-end-trybe-futebol-clube#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=back-end-trybe-futebol-clube&theme=light#gh-light-mode-only)](https://github.com/dopimentel/back-end-trybe-futebol-clube#gh-light-mode-only)
+
+</details>
+
+## GitHub Stats
 
 
-**dopimentel/dopimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api?username=dopimentel&show_icons=true&rank_icon=percentile&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
+  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api?username=dopimentel&show_icons=true&rank_icon=percentile&theme=light#gh-light-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
+  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&show_icons=true&theme=light#gh-light-mode-only" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning React at TRYBE.
-- 👯 I’m looking to collaborate on React componets
-- 🤔 I’m looking for help with Redux
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
   
 <picture>
