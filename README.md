@@ -133,7 +133,7 @@
   <img height=189 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dopimentel&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
-  <img height=189 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dopimentel&theme=light#gh-light-mode-only" />
+  <img height=189 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dopimentel&theme=light#gh-light-mode-only" alt="Here there should be a 3rd card: failed to retrieve contributions. This is likely a GitHub API issue." />
 </a>
 
 
