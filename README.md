@@ -59,9 +59,12 @@
 
 📍 Frontend
 
-> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![ReactRouter][ReactRouter]][ReactRouter-url]![Redux][Redux][![ReactRedux][ReactRedux.js]][ReactRedux-url]![GithubPages][GithubPages]![Markdown][Markdown]
+> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![ReactRouter][ReactRouter]][ReactRouter-url]![Redux][Redux][![ReactRedux][ReactRedux.js]][ReactRedux-url]![GithubPages][GithubPages]![Markdown][Markdown]![ContexAPI][ContextAPI]
+
+
 
 <!-- FRONT END -->
+[ContextAPI]: https://img.shields.io/badge/Context_API-0088CC.svg?&style=for-the-badge&logo=react&logoColor=white
 [HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [CSS3]: https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -95,7 +98,7 @@
 
 📍 DevOps/General
 
- >[![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]![Slack][Slack]![Trello][Trello]![Shell][Shell]![ESLint][ESLint]![GithubActions][GithubActions]![Salesforce][Salesforce]![VSCode][VSCode]![MacOS][MacOS]![Linux][Linux]
+ >[![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]![Slack][Slack]![Trello][Trello]![ESLint][ESLint]![GithubActions][GithubActions]![Salesforce][Salesforce]![VSCode][VSCode]![MacOS][MacOS]![Linux][Linux]![BASH][BASH]
  
 [git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
 [git-url]: https://git-scm.com/doc
@@ -110,6 +113,7 @@
 [VSCode]: https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [MacOS]: https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[BASH]: https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white
 
 
 
