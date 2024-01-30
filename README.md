@@ -30,6 +30,16 @@
 
 </details>
 
+<details open>
+<summary><h3> Frontend</h3></summary>
+ <a href="https://github.com/dopimentel/frontend-starwars-planets-search#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=frontend-starwars-planets-search&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/frontend-starwars-planets-search #gh-light-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=frontend-starwars-planets-search&theme=light#gh-light-mode-only" />
+</a>
+</details>
+
 ## Skills
 
 📍 Backend
