@@ -133,16 +133,20 @@
 <a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api?username=dopimentel&show_icons=true&rank_icon=percentile&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
 <a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
   <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api?username=dopimentel&show_icons=true&rank_icon=percentile&theme=light#gh-light-mode-only" />
 </a>
-<a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&show_icons=true&theme=light#gh-light-mode-only" />
+
+
+<a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
+<a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
+  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=light#gh-light-mode-only" />
+</a>
+
 <br>
+
 <a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
   <img height=189 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dopimentel&theme=dark#gh-dark-mode-only" />
 </a>
