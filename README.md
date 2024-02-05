@@ -139,10 +139,10 @@
 
 
 <a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&size_weight=0&count_weight=1&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&size_weight=1&count_weight=0&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&size_weight=0&count_weight=1&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=light#gh-light-mode-only" />
+  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&size_weight=1&count_weight=0&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=light#gh-light-mode-only" />
 </a>
 
 <br>
