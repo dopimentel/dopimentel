@@ -40,6 +40,18 @@
 </a>
 </details>
 
+
+<details open>
+<summary><h3> Fundamentals</h3></summary>
+<a href="https://github.com/dopimentel/fundamentals-zoo-functions-project#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=fundamentals-zoo-functions-project&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/fundamentals-zoo-functions-project#gh-light-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=fundamentals-zoo-functions-project&theme=light#gh-light-mode-only" />
+</a>
+</details>
+
+
 ## Skills
 
 📍 Backend
