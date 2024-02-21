@@ -9,8 +9,7 @@
 
 <details open>
 <summary><h3> Computer Science</h3></summary>
-</details>
-
+  
 <a href="https://github.com/dopimentel/computer-science-job-insights#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=computer-science-job-insights&theme=dark#gh-dark-mode-only" />
 </a>
@@ -18,6 +17,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=computer-science-job-insights&theme=light#gh-light-mode-only" />
 </a>
 
+</details>
 
 
  
