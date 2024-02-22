@@ -2,7 +2,7 @@
 
 >Hello world, welcome!
 >
->I'm Marcos, a financier in career transition in Information Technology.
+>I'm Marcos.
 >I have approximately 5 years of experience in the payments market (acquiring and banking) in Customer Experience. I like playing chess and running.
 
 ## Main Projects
