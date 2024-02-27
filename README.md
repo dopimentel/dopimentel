@@ -21,11 +21,11 @@
 
 
 
-<a href="https://github.com/dopimentel/backend-trybers-and-dragons#gh-dark-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybers-and-dragons&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/dopimentel/backend-project-blogs-api#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-project-blogs-api&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/dopimentel/backend-trybers-and-dragons#gh-light-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybers-and-dragons&theme=light#gh-light-mode-only" />
+<a href="https://github.com/dopimentel/backend-project-blogs-api#gh-light-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-project-blogs-api&theme=light#gh-light-mode-only" />
 </a>
 
 
@@ -44,11 +44,18 @@
 <details open>
 <summary><h3> Computer Science</h3></summary>
   
-<a href="https://github.com/dopimentel/computer-science-job-insights#gh-dark-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=computer-science-job-insights&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/dopimentel/computer-science-restaurant-orders#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=computer-science-restaurant-orders&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/dopimentel/computer-science-job-insights#gh-light-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=computer-science-job-insights&theme=light#gh-light-mode-only" />
+<a href="https://github.com/dopimentel/computer-science-restaurant-orders#gh-light-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=computer-science-restaurant-orders&theme=light#gh-light-mode-only" />
+</a>
+
+<a href="https://github.com/dopimentel/computer-science-project-ting#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=computer-science-project-ting&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/computer-science-project-ting#gh-light-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=computer-science-project-ting&theme=light#gh-light-mode-only" />
 </a>
 
 </details>
