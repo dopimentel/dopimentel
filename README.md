@@ -12,19 +12,19 @@
 
 
 <details open>
-<summary><h3> Backend</h3></summary>
+<summary><h3> Eletiva Python</h3></summary>
  
 
-<a href="https://github.com/dopimentel/backend-trybe-futebol-clube#gh-dark-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybe-futebol-clube&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/dopimentel/python-certification-project-inventory-report#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=python-certification-project-inventory-report&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/dopimentel/backend-trybe-futebol-clube#gh-light-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybe-futebol-clube&theme=light#gh-light-mode-only" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=python-certification-project-inventory-report&theme=light#gh-light-mode-only" />
 </a>
 
 
 <details open>
-<summary><h3> Eletiva Python</h3></summary>
+<summary><h3> Backend</h3></summary>
  
 
 <a href="https://github.com/dopimentel/backend-trybe-futebol-clube#gh-dark-mode-only">
