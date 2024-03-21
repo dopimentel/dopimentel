@@ -19,6 +19,8 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=python-certification-project-inventory-report&theme=light#gh-light-mode-only" />
 </a>
 
+</details>
+
 
 <details open>
 <summary><h3> Backend</h3></summary>
