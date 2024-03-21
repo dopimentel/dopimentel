@@ -18,7 +18,7 @@
 <a href="https://github.com/dopimentel/python-certification-project-inventory-report#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=python-certification-project-inventory-report&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/dopimentel/backend-trybe-futebol-clube#gh-light-mode-only">
+<a href="https://github.com/dopimentel/python-certification-project-inventory-report#gh-light-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=python-certification-project-inventory-report&theme=light#gh-light-mode-only" />
 </a>
 
