@@ -9,8 +9,15 @@
 
 
 <details open>
-<summary><h3> Eletiva Python</h3></summary>
+<summary><h3> Eletiva Python (full-stack)</h3></summary>
  
+<a href="https://github.com/dopimentel/python-certification-project-translate#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=python-certification-project-translate&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/python-certification-project-translate#gh-light-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=python-certification-project-translate&theme=light#gh-light-mode-only" />
+</a>
+
 
 <a href="https://github.com/dopimentel/python-certification-project-inventory-report#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=python-certification-project-inventory-report&theme=dark#gh-dark-mode-only" />
