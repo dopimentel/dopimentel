@@ -1,16 +1,39 @@
-## About me
 
->Hello world, welcome!
+## 👨‍💻 About Me
+
+>Hello, welcome to my profile!
 >
->I'm Marcos.
->I have approximately 5 years of experience in the payments market (acquiring and banking) in Customer Experience. I like playing chess and running.
+>I'm Marcos, a Full Stack Developer with backend specialization.
+>
+>With approximately 5 years of experience in the payments market (acquiring and banking) in Customer Experience. I'm passionate about chess and running.
 
-## Main Projects
+## 🎓 Education
+
+- **Full Stack Web Development** - Trybe
+- **Computer Systems** - Fluminense Federal University - in progress
+
+## 🌟 Highlighted Project
+
+<div align="center">
+  <a href="https://github.com/dopimentel/medical_api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=medical_api&theme=react&hide_border=true&show_icons=true" />
+  </a>
+  <p><strong>Medical API:</strong> A RESTful API and web interface for managing healthcare professionals and medical appointments.</p>
+</div>
+
+## 🚀 Featured Projects
 
 
 <details open>
-<summary><h3> Backend</h3></summary>
- 
+<summary><h3> 🔙 Backend</h3></summary>
+<p>Backend projects featuring RESTful APIs, database management, and server-side applications.</p>
+
+<a href="https://github.com/dopimentel/medical_api#gh-dark-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=medical_api&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/dopimentel/medical_api#gh-light-mode-only">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=medical_api&theme=light#gh-light-mode-only" />
+</a>
 
 <a href="https://github.com/dopimentel/backend-trybe-futebol-clube#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=backend-trybe-futebol-clube&theme=dark#gh-dark-mode-only" />
@@ -35,7 +58,8 @@
 
 
 <details open>
-<summary><h3> Eletiva Python (full-stack)</h3></summary>
+<summary><h3> 🐍 Python Elective (full-stack)</h3></summary>
+<p>Projects developed during Python specialization, including full-stack applications and back-end solutions.</p>
  
 <a href="https://github.com/dopimentel/python-certification-project-translate#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=python-certification-project-translate&theme=dark#gh-dark-mode-only" />
@@ -59,7 +83,8 @@
 
 
 <details open>
-<summary><h3> Computer Science</h3></summary>
+<summary><h3> 💻 Computer Science</h3></summary>
+<p>Projects focused on computer science fundamentals, algorithms, and data structures implementation.</p>
   
 <a href="https://github.com/dopimentel/computer-science-restaurant-orders#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=computer-science-restaurant-orders&theme=dark#gh-dark-mode-only" />
@@ -81,7 +106,8 @@
 
 
 <details open>
-<summary><h3> Frontend</h3></summary>
+<summary><h3> 🖥️ Frontend</h3></summary>
+<p>Web applications with modern frontend technologies like React, focusing on responsive user interfaces and interactive experiences.</p>
  <a href="https://github.com/dopimentel/frontend-starwars-planets-search#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=frontend-starwars-planets-search&theme=dark#gh-dark-mode-only" />
 </a>
@@ -91,7 +117,8 @@
 </details>
 
 <details open>
-<summary><h3> Fundamentals</h3></summary>
+<summary><h3> 🧠 Fundamentals</h3></summary>
+<p>Foundational projects showcasing core programming concepts and JavaScript fundamentals.</p>
 <a href="https://github.com/dopimentel/fundamentals-zoo-functions-project#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dopimentel&repo=fundamentals-zoo-functions-project&theme=dark#gh-dark-mode-only" />
 </a>
@@ -101,9 +128,9 @@
 </details>
 
 
-## Skills
+## 🛠️ Skills & Technologies
 
-📍 Backend
+### 🔙 Backend
 > [![MySQL][MySQL]][MySQL-url][![Node.js][Node.js]][Node.js-url][![Express][Express]][Express-url][![Typescript][Typescript]][Typescript-url][![Sequelize][Sequelize]][Sequelize-url][![JWT][JWT]][JWT-url]![Python][Python]![Railway][Railway]![Postman][Postman]![TsNode][TsNode]![NPM][NPM]![Docker]
 
 <!-- BACK-END -->
@@ -128,7 +155,7 @@
 [TsNode]: https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white
 [NPM]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
 
-📍 Frontend
+### 🖥️ Frontend
 
 > [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![ReactRouter][ReactRouter]][ReactRouter-url]![Redux][Redux][![ReactRedux][ReactRedux.js]][ReactRedux-url]![GithubPages][GithubPages]![Markdown][Markdown]![ContexAPI][ContextAPI]
 
@@ -139,9 +166,9 @@
 [HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [CSS3]: https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -155,7 +182,7 @@
 [Markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 
 
-📍 Testing
+### 🧪 Testing
 
  > [![Jest][Jest]][Jest-url][![RTL][RTL]][RTL-url]![Chai][Chai]![Mocha][Mocha]
 
@@ -167,7 +194,7 @@
 [Chai]: https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white
 [Mocha]: https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white
 
-📍 DevOps/General
+### 📍 DevOps/General
 
  >[![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]![Slack][Slack]![Trello][Trello]![ESLint][ESLint]![GithubActions][GithubActions]![Salesforce][Salesforce]![VSCode][VSCode]![MacOS][MacOS]![Linux][Linux]![BASH][BASH]
  
@@ -188,32 +215,32 @@
 
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
+<p align="center">Here's a snapshot of my GitHub activity and code contributions.</p>
 
-<a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api?username=dopimentel&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api?username=dopimentel&theme=light#gh-light-mode-only" />
-</a>
+<div align="center">
+  <a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
+    <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api?username=dopimentel&theme=dark#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
+    <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api?username=dopimentel&theme=light#gh-light-mode-only" />
+  </a>
 
+  <a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
+    <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
+    <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=light#gh-light-mode-only" />
+  </a>
 
-<a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://dopimentel-github-readme-stats.vercel.app/api/top-langs?username=dopimentel&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=light#gh-light-mode-only" />
-</a>
-
-<br>
-
-<a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
-  <img height=189 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dopimentel&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
-  <img height=189 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dopimentel&theme=light#gh-light-mode-only" alt="Here there should be a 3rd card: failed to retrieve contributions. This is likely a GitHub API issue." />
-</a>
+  <a href="https://github.com/dopimentel/github-readme-stats#gh-dark-mode-only">
+    <img height=189 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dopimentel&theme=dark#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/dopimentel/github-readme-stats#gh-light-mode-only">
+    <img height=189 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dopimentel&theme=light#gh-light-mode-only" />
+  </a>
+</div>
 
 
 
@@ -226,8 +253,9 @@
 
 ## 💬 Contact Me
 
+<p>Feel free to reach out for collaborations or questions about my projects!</p>
+
 <div align="left" style="display: inline_block">
-  
   <a href="https://www.linkedin.com/in/marcoscoutinho" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:mpc_marcos@hotmail.com"><img height="28rem" src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
 </div>
