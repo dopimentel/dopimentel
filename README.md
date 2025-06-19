@@ -9,8 +9,8 @@
 
 ## 🎓 Education
 
-- **Full Stack Web Development** - Trybe
 - **Computer Systems** - Fluminense Federal University - in progress
+- **Full Stack Web Development** - Trybe
 
 ## 🌟 Highlighted Project
 
